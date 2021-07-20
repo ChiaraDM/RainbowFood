@@ -1,2 +1,2 @@
-# RainbowFood
-Final Project - Weekly Meal Recommendation System
+# RainbowFood (Django)
+Final Project - Weekly Meal Recommendation System (Not completed)
